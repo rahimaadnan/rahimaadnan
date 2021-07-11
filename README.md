@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @rahimaadnan
-- 👀 I’m interested in mobile app development
+- 👀 I’m interested in mobile app development and product management 
 - 🌱 I’m currently learning C 
 - 📫 How to reach me https://www.linkedin.com/in/rahima-a-a6a4aa207/
 

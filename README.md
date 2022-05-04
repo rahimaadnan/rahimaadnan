@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @rahimaadnan
-- 👀 I’m interested in mobile app development and product management 
+- 👀I'm interested in mobile engineering and video game development.
 - 🌱 I’m currently learning C 
 -
 

@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @rahimaadnan
 - 👀I'm interested in mobile engineering and video game development.
-- 🌱 I’m currently learning C 
--
+- 🌱 I’m currently learning Swift 
+
 
 <!---
 rahimaadnan/rahimaadnan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rahimaadnan
-- 👀I'm interested in software engineering and product management. 
-- 🌱 I’m currently learning Swift 
+- 👀I'm interested in software engineering and venture capital. 
+- 🌱 I’m currently learning Assembly.
 
 
 <!---

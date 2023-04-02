@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @rahimaadnan
-- 👀I'm interested in software engineering and quantitative trading
+- 👀I'm interested in software engineering and quantitative finance.
 - 🌱 I’m currently learning C++.
 
 
